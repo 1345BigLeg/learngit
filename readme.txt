@@ -1,3 +1,8 @@
-Git is a version control system.
-Git is free  xiugaide dier ban software.
-第二次修改
+using namespace std;
+int main()
+{
+for (int i=0;i<10;i++)
+{
+cout<<i<<endl;
+}
+}
